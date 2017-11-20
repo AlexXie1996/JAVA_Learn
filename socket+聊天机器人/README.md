@@ -1,2 +1,3 @@
-# JAVA_Learn
-JAVA的好玩的小程序
+# socket+聊天机器人
+
+- 套接字编程初探
